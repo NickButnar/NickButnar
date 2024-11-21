@@ -36,9 +36,6 @@ Here are some of the technologies I work with:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NickButnar&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="365px" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickButnar&theme=radical" alt="GitHub Streak" height="200px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickButnar&layout=compact&theme=radical" alt="Most Used Languages" height="200px" />
 </p>
