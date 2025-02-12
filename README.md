@@ -13,7 +13,10 @@ Welcome to my GitHub! I'm a developer with 2 years of experience in creating eff
 
 ## 🛠️ Languages and Tools
 
-Here are some of the technologies I work with:
+### Languages
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Libraries
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
@@ -21,8 +24,6 @@ Here are some of the technologies I work with:
 ![Hotwire](https://img.shields.io/badge/Hotwire-F06666?style=for-the-badge&logo=turbo&logoColor=white)
 ![Hotwire Native](https://img.shields.io/badge/Hotwire_Native-4A90E2?style=for-the-badge&logo=native&logoColor=white)
 ![Turbo](https://img.shields.io/badge/Turbo-FCA311?style=for-the-badge&logo=turbo&logoColor=white)
-
-
 
 ### Design & Styling
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -32,12 +33,18 @@ Here are some of the technologies I work with:
 
 ---
 
-## 📈 GitHub Stats
+## 📚 Currently Learning
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Rails API](https://img.shields.io/badge/Rails_API-000000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+
+
+---
+
+## 📈 Most used languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NickButnar&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="365px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickButnar&theme=radical" alt="GitHub Streak" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickButnar&layout=compact&theme=radical" alt="Most Used Languages" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickButnar&layout=compact&theme=radical" alt="Most Used Languages" width="100%" />
 </p>
 
 ---
