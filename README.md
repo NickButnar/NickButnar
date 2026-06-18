@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-Welcome to my GitHub! I'm a developer with 3 years of experience in creating efficient and scalable applications. My main focus is on **Ruby on Rails**, but I also enjoy building interactive front-end experiences with **Svelte** and other modern web technologies.
+Welcome to my GitHub! I'm a developer with 3 years of experience in creating efficient and scalable applications. My main focus is on **React-Native** and **Ruby on Rails**, but I also enjoy building interactive front-end experiences with other modern web technologies.
 
 ---
 
@@ -14,9 +14,9 @@ Welcome to my GitHub! I'm a developer with 3 years of experience in creating eff
 ## 🛠️ Languages and Tools
 
 ### Languages
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 ### Frameworks & Libraries
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
