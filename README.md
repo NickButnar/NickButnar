@@ -97,6 +97,5 @@ Developer with **almost 4 years of commercial experience** and **8 products ship
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=NickButnar&layout=compact&theme=radical&hide_border=true&langs_count=4&hide=html,shell,dockerfile" alt="Most Used Languages" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NickButnar&theme=radical" alt="Top Languages by Commit" height="165" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=NickButnar&layout=compact&theme=radical&hide_border=true&langs_count=4&hide=html,shell,dockerfile" alt="Most Used Languages" width="70%" />
 </p>
